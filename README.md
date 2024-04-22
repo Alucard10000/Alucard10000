@@ -24,6 +24,5 @@ Eu sou Lucas Tavares, sou programador Front End, atualmente estou aprendendo e c
   <a href="https://www.linkedin.com/in/lucas-tavares-9b0460261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Alucard10000/Alucard10000/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
